@@ -1,5 +1,6 @@
 ## Hi there 👋
   Welcome to my GitHub profile! I'm a fresher in Software Engineering, passionate about learning, building, and growing in the world of code.
+  
 "Every line of code is a step forward, every bug is a lesson learned." 🚀
 
 - 🔭 I’m currently working on Software Engineer - Back End Developer
